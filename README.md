@@ -1,7 +1,11 @@
 ### Now Playing 🎧
 <div align="center">
 <img src="https://github-readme-josephasg.vercel.app/api/spotify"/>
-<img src="https://github-readme-josephasg.vercel.app/api/steam"/>
+<a href="https://steamcommunity.com/profiles/76561198285578565/" target="_blank">
+  <img src="https://github-readme-josephasg.vercel.app/api/steam" alt="Steam Activity" />
+<!-- <img src="http://localhost:3000/api/steam"/> -->
+</a>
+
 </div>
 
 <!--
