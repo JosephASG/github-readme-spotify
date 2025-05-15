@@ -1,6 +1,7 @@
 ### Now Playing 🎧
 <div align="center">
 <img src="https://github-readme-josephasg.vercel.app/api/spotify"/>
+<img src="https://github-readme-josephasg.vercel.app/api/steam"/>
 </div>
 
 <!--
